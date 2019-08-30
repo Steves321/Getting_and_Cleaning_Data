@@ -1,13 +1,7 @@
 # Getting_and_Cleaning_Data
 
-The first step is to download the data
+run_Analysis.R is the code that was used to complete the project
 
-The second step is to clean x_test, x_train, y_test, and y_train in order to make them ready to be merged.
+The file called Code Book is the required code book that describes how the R file works.
 
-The third step is to merge them all togther
-
-The fourth step is to extract the column names and search for columns that contain the string "subject, "code", "mean..", and "std..".
-
-The fifth step is to take this dataset and attach activity labels for the row based on the code.
-
-Finally tidy is used in order to summarize the means of the data by activity and subject, and the final table is created.
+Readme.md this file describes the files that are in the repo.
